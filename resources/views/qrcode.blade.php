@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="d-grid mt-4">
-                    <button type="submit" class="btn btn-success btn-lg">Generate QR Code</button>
+                    <button type="submit" class="btn btn-success btn-lg">Generate QR Code sta</button>
                 </div>
 
             </form>

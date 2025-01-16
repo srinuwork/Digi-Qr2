@@ -54,6 +54,9 @@
                     <button type="submit" class="btn btn-success btn-lg">Generate QR Code</button>
                 </div>
 
+                <div class="d-grid mt-4">
+                    <button type="submit" class="btn btn-success btn-lg">Generate QR Code updaed for merge</button>
+                </div>
             </form>
         </div>
         <div class="card-footer qr-code-display" id="qrCodeDisplay">

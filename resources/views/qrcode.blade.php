@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="d-grid mt-4">
-                    <button type="submit" class="btn btn-success btn-lg">Generate QR Code updated from github</button>
+                    <button type="submit" class="btn btn-success btn-lg">Generate QR Code for merge complex</button>
                 </div>
 
             </form>
